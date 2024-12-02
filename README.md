@@ -1,4 +1,4 @@
-# BeautyCenter Website
+# BeautyCenter Websitemiz 
 
 Web programlama projesi,
 Kuaför İşletme Yönetim Uygulaması
