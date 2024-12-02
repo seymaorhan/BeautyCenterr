@@ -6,4 +6,59 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\images\ajax-loader.gif" />
+    <None Include="wwwroot\css\images\bg-pattern-boxed.png" />
+    <None Include="wwwroot\css\images\block-decorate-img-bottom.jpg" />
+    <None Include="wwwroot\css\images\block-decorate-img-top.jpg" />
+    <None Include="wwwroot\css\images\favicon.ico" />
+    <None Include="wwwroot\css\images\gmap_marker.png" />
+    <None Include="wwwroot\css\images\gmap_marker_active.png" />
+    <None Include="wwwroot\css\images\gmap_marker_variant2.png" />
+    <None Include="wwwroot\css\images\home-1-10-90x90.jpg" />
+    <None Include="wwwroot\css\images\home-1-11-90x90.jpg" />
+    <None Include="wwwroot\css\images\home-1-12-90x90.jpg" />
+    <None Include="wwwroot\css\images\home-1-378x463.jpg" />
+    <None Include="wwwroot\css\images\home-1-7-534x406.jpg" />
+    <None Include="wwwroot\css\images\home-1-8-541x369.jpg" />
+    <None Include="wwwroot\css\images\home-1-9-541x369.jpg" />
+    <None Include="wwwroot\css\images\home-3-1-974x626.jpg" />
+    <None Include="wwwroot\css\images\ie8-panel\warning_bar_0000_us.jpg" />
+    <None Include="wwwroot\css\images\isotope-loader.png" />
+    <None Include="wwwroot\css\images\loading.gif" />
+    <None Include="wwwroot\css\images\logo-dark-main-257x84.png" />
+    <None Include="wwwroot\css\images\logo-inverse-138x43.png" />
+    <None Include="wwwroot\css\images\mCSB_buttons.png" />
+    <None Include="wwwroot\css\images\monstroid-big.jpg" />
+    <None Include="wwwroot\css\images\monstroid.jpg" />
+    <None Include="wwwroot\css\images\overview-1-470x282.jpg" />
+    <None Include="wwwroot\css\images\overview-2-470x282.jpg" />
+    <None Include="wwwroot\css\images\page-title-3-1920x305.jpg" />
+    <None Include="wwwroot\css\images\page-title-4-1920x305.jpg" />
+    <None Include="wwwroot\css\images\page-titlte-1-1920x305.jpg" />
+    <None Include="wwwroot\css\images\parallax-04-1920x1320.jpg" />
+    <None Include="wwwroot\css\images\preloader.gif" />
+    <None Include="wwwroot\css\images\preloader.png" />
+    <None Include="wwwroot\css\images\services-1-270x458.jpg" />
+    <None Include="wwwroot\css\images\services-2-270x458.jpg" />
+    <None Include="wwwroot\css\images\slide-1-1920x720.png" />
+    <None Include="wwwroot\css\images\slide-1-bg.jpg" />
+    <None Include="wwwroot\css\images\slide-2-1920x720.png" />
+    <None Include="wwwroot\css\images\slide-2-bg.jpg" />
+    <None Include="wwwroot\css\images\slide-3-1920x720.png" />
+    <None Include="wwwroot\css\images\slide-3-bg.jpg" />
+    <None Include="wwwroot\css\images\team-1-370x370.jpg" />
+    <None Include="wwwroot\css\images\team-2-370x370.jpg" />
+    <None Include="wwwroot\css\images\team-3-370x370.jpg" />
+    <None Include="wwwroot\css\images\team-4-370x370.jpg" />
+    <None Include="wwwroot\css\images\team-5-370x370.jpg" />
+    <None Include="wwwroot\css\images\team-6-370x370.png" />
+    <None Include="wwwroot\css\images\team-7-370x370.png" />
+    <None Include="wwwroot\css\images\typography-1-770x485.jpg" />
+    <None Include="wwwroot\css\images\video-play.png" />
+    <None Include="wwwroot\css\images\vimeo-play.png" />
+    <None Include="wwwroot\css\images\youtube-play.png" />
+    <None Include="wwwroot\css\images\_blank.png" />
+  </ItemGroup>
+
 </Project>
