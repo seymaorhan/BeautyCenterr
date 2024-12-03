@@ -1,4 +1,4 @@
-# BeautyCenter Websitemiz 
+# BeautyCenter Websitemiz Şeyma ve Nurcan
 
 Web programlama projesi,
 Kuaför İşletme Yönetim Uygulaması
@@ -16,3 +16,4 @@ C#
 SQL Server / PostgreSQL (Veritabanı)
 Entity Framework Core ORM
 Bootstrap, HTML5, CSS3, JavaScript, jQuery
+fork olusturma
