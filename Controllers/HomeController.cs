@@ -23,6 +23,15 @@ namespace BeautyCenter.Controllers
             return View();
         }
 
+<<<<<<< HEAD
+
+=======
+        public IActionResult Hakkimizda()
+        {
+            return View();
+        }
+>>>>>>> c91b211720e667e2ac71a17b46f0a82de2989d01
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
