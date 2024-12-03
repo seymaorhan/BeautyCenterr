@@ -59,4 +59,8 @@
     <Content Include="images\_blank.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="9.0.1" />
+  </ItemGroup>
+
 </Project>
